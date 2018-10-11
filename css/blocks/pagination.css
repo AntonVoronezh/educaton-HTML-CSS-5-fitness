@@ -58,3 +58,9 @@ a:hover>.pagination__item-wrap {
     background: #111111;
     color: #f89513;
 }
+
+.pagination__list--comments {
+    margin-top: 30px;
+    margin-left: 350px;
+    margin-bottom: 50px;
+}
