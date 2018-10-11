@@ -10,7 +10,7 @@
     justify-content: start;
     align-items: center;
     margin-bottom: 40px;
-    margin-top: 0px;
+    margin-top: 50px;
     padding-left: 200px;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .pagination__item-link {
-    color: #000000;
+    color: #111111;
     text-decoration: none;
     width: 25px;
     height: 25px;
@@ -47,14 +47,14 @@
 }
 
 a:hover>.pagination__item-wrap {
-    background: #4b73b5;
-    color: #ffffff;
+    background: #111111;
+    color: #f89513;
 }
 
 .pagination__item-wrap--active {
     border-radius: 10%;
     width: 25px;
     height: 25px;
-    background: #4b73b5;
-    color: #ffffff;
+    background: #111111;
+    color: #f89513;
 }

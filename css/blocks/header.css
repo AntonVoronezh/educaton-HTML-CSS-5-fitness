@@ -7,7 +7,7 @@
 
 .header {
     width: 100%;
-    background: #4b73b5;
+    background: #111111;;
     margin-bottom: 13px;
 }
 
@@ -50,7 +50,7 @@
 }
 
 .headerinfo__schedule-button {
-    color: #ffffff;
+    color: #f89513;;
     font-size: 14px;
     text-decoration: underline;
     padding-top: 5px;
@@ -74,7 +74,7 @@
 }
 
 .headerinfo__schedule-working {
-    color: #4b73b5;
+    color: #f89513;;
     font-size: 14px;
     font-style: normal;
     font-weight: 700;

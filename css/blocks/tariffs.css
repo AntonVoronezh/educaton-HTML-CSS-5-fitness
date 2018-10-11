@@ -15,6 +15,7 @@
     text-align: top;
     display: flex;
     flex-direction: column;
+    margin-bottom: 20px;
 }
 
 .title-h {
@@ -46,7 +47,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 1px solid #cccccc;
+    border: 1px solid #111111;
 
 }
 

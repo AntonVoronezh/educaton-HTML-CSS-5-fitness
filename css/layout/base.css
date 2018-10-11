@@ -11,7 +11,7 @@ body {
     height: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-family: 'robotolight', Arial, Helvetica, sans-serif;
+    font-family: 'opensans', Arial, Helvetica, sans-serif;
 }
 
 .wrapper {

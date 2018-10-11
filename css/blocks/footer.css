@@ -7,7 +7,7 @@
 
 .footer {
     width: 100%;
-    background: #4b73b5;
+    background: #111111;
 }
 
 .container--footer {
@@ -34,7 +34,7 @@
 }
 
 .footer__left-link {
-    color: #ffffff;
+    color: #f89513;;
     font-size: 14px;
     font-weight: 300;
     text-decoration: none;
